@@ -8,5 +8,6 @@ feeds into comprehensive BEV environmental representations, encompassing 3D Obje
 ---
 
 ## Some Results
+ ![Camera Inputs](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/pictures/cam_input.png)
 
 
