@@ -9,7 +9,7 @@ feeds into comprehensive BEV environmental representations, encompassing 3D Obje
 
 ## Some Results
 
- ![e2e](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/pictures/e2e.png)
+ ![e2e](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/e2e.png)
  
 
 
