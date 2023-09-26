@@ -8,6 +8,9 @@ feeds into comprehensive BEV environmental representations, encompassing 3D Obje
 ---
 
 ## Some Results
+<p align="center">
+  <img src="[your_image_url](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/pictures/gt_full.png)" />
+</p>
  ![Camera Inputs](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/pictures/cam_input.png)
  
  ![Ground Truth](https://github.com/LiamTheronC/End-to-end-Planning/blob/main/pictures/gt_full.png)
